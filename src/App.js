@@ -69,10 +69,4 @@ class MemeGenerator extends React.Component {
 }
 
 
-
-
-ReactDOM.render(
-  <MemeGenerator />,
-  document.getElementById("app")
-);
-
+export default App;
