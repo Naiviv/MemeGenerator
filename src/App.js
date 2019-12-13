@@ -3,7 +3,7 @@ import logo from './logo.svg.ico';
 import './App.css';
 
 
-class MemeGenerator extends React.Component {
+class App extends React.Component {
     constructor() {
         super()
         this.state = {
