@@ -2,13 +2,6 @@ import React from 'react';
 import logo from './logo.svg.ico';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-    
-    </div>
-  );
-}
 
 class MemeGenerator extends React.Component {
     constructor() {
